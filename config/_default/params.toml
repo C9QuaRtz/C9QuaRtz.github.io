@@ -13,8 +13,8 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "💫"
+subtitle = "可爱即是正义！"
 
 [sidebar.avatar]
 enabled = true
@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "utterances"
 
 [comments.disqusjs]
 shortname = ""
@@ -87,9 +87,9 @@ admin = ""
 adminLabel = ""
 
 [comments.utterances]
-repo = ""
+repo = "C9QuaRtz/C9QuaRtz.github.io"
 issueTerm = "pathname"
-label = ""
+label = "blog_comment"
 
 [comments.remark42]
 host = ""
