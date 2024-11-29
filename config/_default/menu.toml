@@ -29,4 +29,4 @@ name = "bilibili"
 url = "https://space.bilibili.com/620599492"
 
 [social.params]
-icon = "brand-bilibili"
+icon = brand-bilibili
