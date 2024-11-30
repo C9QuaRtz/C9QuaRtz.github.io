@@ -5,6 +5,12 @@ links:
     description: 我是示例样式，这是一个自指的友链wwwww
     website: https://c9quartz.github.io/
     image: C9QuaRtz Hos7llo's Stack.png
+
+  - title: MaStAr's Blog
+    description: 为世界上所有美好而战！
+    website: https://mastar1128.github.io/
+    image: MaStAr's Blog.png
+    
 menu:
     main: 
         weight: 4
