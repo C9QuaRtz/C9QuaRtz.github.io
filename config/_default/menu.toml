@@ -30,3 +30,11 @@ url = "https://space.bilibili.com/620599492"
 
 [social.params]
 icon = "brand-bilibili"
+
+[[social]]
+identifier = "Steam"
+name = "Steam"
+url = "https://steamcommunity.com/profiles/76561198842028671"
+
+[social.params]
+icon = "brand-steam"
