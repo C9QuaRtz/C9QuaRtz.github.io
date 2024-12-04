@@ -2,23 +2,12 @@
 title: ChatGPT 的小小随笔
 description: 只会梦到电子羊多没意思呀~
 image: ChatGPT(forsure).png
-
 categories:
     - gpt
-
-
-widgets:
-    - type: search
-
-    - type: archives
-      limit: 5
-
-    - type: categories
-      limit: 10
-
-    - tpye: tag-cloud
-      limit: 10
-
+comments: false
+license: false
+toc: true
+readingTime: false
 # Badge style
 style:
     background: "#146049"
