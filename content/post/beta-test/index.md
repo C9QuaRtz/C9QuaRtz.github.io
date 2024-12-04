@@ -4,10 +4,8 @@ description: Test for posting
 slug: beta-test
 date: 2024-11-26 09:45:10+0800
 image: cover.jpg
-categories:
-    - daily
 tags:
-    - deri daily
+    - 平平日常
 # weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

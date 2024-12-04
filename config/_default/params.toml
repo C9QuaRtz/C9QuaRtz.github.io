@@ -41,12 +41,6 @@ type = "archives"
 limit = 5
 
 [[widgets.homepage]]
-type = "categories"
-
-[widgets.homepage.params]
-limit = 10
-
-[[widgets.homepage]]
 type = "tag-cloud"
 
 [widgets.homepage.params]
@@ -54,27 +48,6 @@ limit = 10
 
 # [[widgets.page]]
 # type = "toc"
-
-[[widgets.article]]
-type = "search"
-
-[[widgets.article]]
-type = "archives"
-
-[widgets.article.params]
-limit = 5
-
-[[widgets.article]]
-type = "categories"
-
-[widgets.article.params]
-limit = 10
-
-[[widgets.article]]
-type = "tag-cloud"
-
-[widgets.article.params]
-limit = 10
 
 [opengraph.twitter]
 site = ""
