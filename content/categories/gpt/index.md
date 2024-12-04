@@ -6,18 +6,18 @@ image: ChatGPT(forsure).png
 categories:
     - gpt
 
-params:
-    widgets:
-        - type: search
 
-        - type: archives
-          limit: 5
+widgets:
+    - type: search
 
-        - type: categories
-          limit: 10
+    - type: archives
+      limit: 5
 
-        - tpye: tag-cloud
-          limit: 10
+    - type: categories
+      limit: 10
+
+    - tpye: tag-cloud
+      limit: 10
 
 # Badge style
 style:

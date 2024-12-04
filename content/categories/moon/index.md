@@ -6,18 +6,17 @@ image: Searching the Moon.jpg
 categories:
     - moon
 
-params:
-    widgets:
-        - type: search
+widgets:
+    - type: search
 
-        - type: archives
-          limit: 5
+    - type: archives
+      limit: 5
 
-        - type: categories
-          limit: 10
+    - type: categories
+      limit: 10
 
-        - tpye: tag-cloud
-          limit: 10
+    - tpye: tag-cloud
+      limit: 10
 
 # Badge style
 style:
