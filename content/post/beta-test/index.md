@@ -8,7 +8,7 @@ categories:
     - daily
 tags:
     - deri daily
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+# weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 ## 云冉冉蘅皋暮，彩笔新题断肠句 
