@@ -5,8 +5,8 @@ slug: gpt-1
 date: 2024-12-04 19:47:50+0800
 image: cover.jpg
 categories:
-    - ChatGPT 的小小随笔
-    - 雨穗星屑💫
+    - gpt
+    - moon
 tags:
     - ChatGPT
     - 碎碎杂谈
