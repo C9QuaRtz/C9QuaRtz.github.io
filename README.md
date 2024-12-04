@@ -18,10 +18,10 @@
 
 有任何建议或是感想都欢迎来发 Issue。不用担心太多哦，不论是深刻的感悟还是经验+3的冒泡都没关系，每一条我都会认真看认真回复的。
 
-就写这么多吧，其他的可以来我的 [**主站**](https://c9quartz.github.io "真的不来看看嘛 ～(　TロT)σ") 看看 o((>ω< ))o
+就写这么多吧，其他的可以来我的 [主站](https://c9quartz.github.io "真的不来看看嘛 ～(　TロT)σ") 看看 o((>ω< ))o
 
 **「外面出太阳了诶，可以一起出门走走嘛！」**
 <br>
 <br>
 ---
-### 非常感谢 CaiJimmy 大佬开源的模版，如果觉得不错请去 [项目原址](https://github.com/CaiJimmy/hugo-theme-stack-starter) 点个 Star 吧
+### 非常感谢 CaiJimmy 大佬开源的模版，如果觉得不错请去 [项目原址](https://github.com/CaiJimmy/hugo-theme-stack) 点个 Star 吧
