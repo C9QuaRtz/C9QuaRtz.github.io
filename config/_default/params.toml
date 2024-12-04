@@ -22,7 +22,7 @@ local = true
 src = "img/avatar.png"
 
 [article]
-headingAnchor = false
+headingAnchor = true
 math = true
 readingTime = true
 
@@ -55,8 +55,29 @@ limit = 10
 # [[widgets.page]]
 # type = "toc"
 
+[[widgets.categories]]
+type = "search"
+
+[[widgets.categories]]
+type = "archives"
+
+[widgets.categories.params]
+limit = 5
+
+[[widgets.categories]]
+type = "categories"
+
+[widgets.categories.params]
+limit = 10
+
+[[widgets.categories]]
+type = "tag-cloud"
+
+[widgets.categories.params]
+limit = 10
+
 [opengraph.twitter]
-site = "A7Os_Prx"
+site = ""
 card = "summary_large_image"
 
 [defaultImage.opengraph]

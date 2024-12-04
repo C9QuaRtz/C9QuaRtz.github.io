@@ -5,6 +5,6 @@ image: ChatGPT(forsure).png
 
 # Badge style
 style:
-    background: "#159D7B"
-    color: "#1BBC9B"
+    background: "#146049"
+    color: "#FFFFFF"
 ---

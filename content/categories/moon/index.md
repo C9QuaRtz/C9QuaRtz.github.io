@@ -5,6 +5,6 @@ image: Searching the Moon.jpg
 
 # Badge style
 style:
-    background: "#0D6986"
-    color: "#39C9BB"
+    background: "#39C9BB"
+    color: "#FFFFFF"
 ---
