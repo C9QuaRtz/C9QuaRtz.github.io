@@ -22,12 +22,12 @@ local = true
 src = "img/avatar.png"
 
 [article]
-headingAnchor = true
+headingAnchor = false
 math = true
-readingTime = true
+readingTime = false
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
@@ -55,25 +55,25 @@ limit = 10
 # [[widgets.page]]
 # type = "toc"
 
-[[widgets.categories]]
+[[widgets.article]]
 type = "search"
 
-[[widgets.categories]]
+[[widgets.article]]
 type = "archives"
 
-[widgets.categories.params]
+[widgets.article.params]
 limit = 5
 
-[[widgets.categories]]
+[[widgets.article]]
 type = "categories"
 
-[widgets.categories.params]
+[widgets.article.params]
 limit = 10
 
-[[widgets.categories]]
+[[widgets.article]]
 type = "tag-cloud"
 
-[widgets.categories.params]
+[widgets.article.params]
 limit = 10
 
 [opengraph.twitter]
