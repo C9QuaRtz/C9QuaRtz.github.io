@@ -1,10 +1,12 @@
 # Configure main menu and social menu
+
 [[main]]
-identifier = "home"
-name = "Home1"
-url = "/"
+identifier = "backstage"
+name = "Backstage Github"
+url = "https://github.com/C9QuaRtz/C9QuaRtz.github.io"
+
 [main.params]
-icon = "home"
+icon = "log-out"
 newtab = true
 
 [[social]]

@@ -56,7 +56,7 @@ limit = 10
 # type = "toc"
 
 [opengraph.twitter]
-site = ""
+site = "A7Os_Prx"
 card = "summary_large_image"
 
 [defaultImage.opengraph]
