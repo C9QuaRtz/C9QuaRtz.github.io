@@ -13,3 +13,7 @@ style:
     background: "#146049"
     color: "#FFFFFF"
 ---
+
+<br>
+
+> Cover Illustrator: [Tinia](https://www.pixiv.net/users/16148853 "Pixiv")

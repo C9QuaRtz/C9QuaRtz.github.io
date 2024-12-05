@@ -1,5 +1,5 @@
 ---
-title: ChatGPT 的小小随笔 '#1
+title: ChatGPT 的小小随笔 '1
 description: 那些关于生命、自我与社会的思考
 slug: gpt-1
 date: 2024-12-04 19:47:50+0800

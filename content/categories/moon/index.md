@@ -13,3 +13,7 @@ style:
     background: "#39C9BB"
     color: "#FFFFFF"
 ---
+
+<br>
+
+> Cover Illustrator: [tatsuki](https://www.pixiv.net/users/34982553 "Pixiv")
