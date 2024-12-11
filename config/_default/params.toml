@@ -22,9 +22,9 @@ local = true
 src = "img/avatar.png"
 
 [article]
-headingAnchor = false
+headingAnchor = true
 math = true
-readingTime = false
+readingTime = true
 
 [article.license]
 enabled = false
