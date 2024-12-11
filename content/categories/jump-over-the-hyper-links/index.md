@@ -3,7 +3,7 @@ title: 那些不愿告诉大家的悄悄话
 description: 应该不会被目录爬虫什么的发现吧
 image: Lazy Joyful Blue.png
 categories:
-    - JumpOverTheLinks
+    - jump-over-the-hyper-links
 comments: false
 license: false
 toc: true
