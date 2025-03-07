@@ -20,3 +20,7 @@ menu:
 <iframe src="https://www.bilibili.com" width="100%" height="400"></iframe>
 
 <a href="https://osu.ppy.sh/u/C9QuaRtz"><img src="/card?user=C9QuaRtz&mode=std&animation=true" /></a>
+
+<br>
+
+[反应力测试小游戏](./reaction-test.html)
